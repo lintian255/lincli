@@ -1,0 +1,8 @@
+{
+    "name": "lincli",
+    "version": "0.0.1",
+    "bin": {
+        "linnpm": "./index.js"
+    },
+    "type": "module"
+}
