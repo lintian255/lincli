@@ -1,4 +1,3 @@
-// 2.loading.js
 import readline from 'readline'
 import process from 'process'
 

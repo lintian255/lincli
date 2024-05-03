@@ -1,4 +1,3 @@
-// 6.keyevent.js
 import process from 'node:process'
 
 if (process.stdin.isTTY) {

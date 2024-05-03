@@ -1,4 +1,3 @@
-// 4.input_with_line.js
 import process from 'node:process'
 import readline from 'node:readline'
 
